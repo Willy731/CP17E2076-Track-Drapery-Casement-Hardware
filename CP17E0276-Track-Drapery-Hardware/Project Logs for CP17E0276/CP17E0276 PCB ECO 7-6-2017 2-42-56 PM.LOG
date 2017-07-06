@@ -1,0 +1,85 @@
+Change Component Description : Designator=U4 Old Description= New Description=IC MOTOR DVR DC FULL BR 12TDFN
+Change Component Description : Designator=U5 Old Description= New Description=IC MOTOR DVR DC FULL BR 12TDFN
+Change Component Description : Designator=B1 Old Description=NP New Description=AUDIO MAGNETIC XDCR 2-4V TH
+Change Component Kind : Designator=XT1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R10 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R9 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Q1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C9 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C8 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=B1 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=BAT(TestPoint1)
+Added Component: Designator=CS2(TestPoint1)
+Added Component: Designator=DOWN(TestPoint1)
+Added Component: Designator=M1_DIR(TestPoint1)
+Added Component: Designator=M1_EN(TestPoint1)
+Added Component: Designator=M1_ID(TestPoint1)
+Added Component: Designator=M1_PWM(TestPoint1)
+Added Component: Designator=M1H1(TestPoint1)
+Added Component: Designator=M1H2(TestPoint1)
+Added Component: Designator=M1HP(TestPoint1)
+Added Component: Designator=M1(TestPoint1)
+Added Component: Designator=M2_DIR(TestPoint1)
+Added Component: Designator=M2_EN(TestPoint1)
+Added Component: Designator=M2_ID(TestPoint1)
+Added Component: Designator=M2_PWM(TestPoint1)
+Added Component: Designator=M2H1(TestPoint1)
+Added Component: Designator=M2H2(TestPoint1)
+Added Component: Designator=M2HP(TestPoint1)
+Added Component: Designator=M2(TestPoint1)
+Added Component: Designator=MCLR/VPP1(TestPoint1)
+Added Component: Designator=SCK2(TestPoint1)
+Added Component: Designator=SDI2(TestPoint1)
+Added Component: Designator=SDO2(TestPoint1)
+Added Component: Designator=UP(TestPoint1)
+Added Pin To Net: NetName=NetBAT_0 Pin=BAT-0
+Added Pin To Net: NetName=NetCS2_0 Pin=CS2-0
+Added Pin To Net: NetName=NetDOWN_0 Pin=DOWN-0
+Added Pin To Net: NetName=NetM1_0 Pin=M1-0
+Added Pin To Net: NetName=NetM1_DIR_0 Pin=M1_DIR-0
+Added Pin To Net: NetName=NetM1_EN_0 Pin=M1_EN-0
+Added Pin To Net: NetName=NetM1_ID_0 Pin=M1_ID-0
+Added Pin To Net: NetName=NetM1_PWM_0 Pin=M1_PWM-0
+Added Pin To Net: NetName=NetM1H1_0 Pin=M1H1-0
+Added Pin To Net: NetName=NetM1H2_0 Pin=M1H2-0
+Added Pin To Net: NetName=NetM1HP_0 Pin=M1HP-0
+Added Pin To Net: NetName=NetM2_0 Pin=M2-0
+Added Pin To Net: NetName=NetM2_DIR_0 Pin=M2_DIR-0
+Added Pin To Net: NetName=NetM2_EN_0 Pin=M2_EN-0
+Added Pin To Net: NetName=NetM2_ID_0 Pin=M2_ID-0
+Added Pin To Net: NetName=NetM2_PWM_0 Pin=M2_PWM-0
+Added Pin To Net: NetName=NetM2H1_0 Pin=M2H1-0
+Added Pin To Net: NetName=NetM2H2_0 Pin=M2H2-0
+Added Pin To Net: NetName=NetM2HP_0 Pin=M2HP-0
+Added Pin To Net: NetName=NetMCLR/VPP1_0 Pin=MCLR/VPP1-0
+Added Pin To Net: NetName=NetP4_4 Pin=SCK2-0
+Added Pin To Net: NetName=NetP4_3 Pin=SDI2-0
+Added Pin To Net: NetName=NetP4_1 Pin=SDO2-0
+Added Pin To Net: NetName=NetR14_1 Pin=UP-0
+Added Member To Class: ClassName=Main Member=Component BAT 
+Added Member To Class: ClassName=Main Member=Component C10 0.1uF
+Added Member To Class: ClassName=Main Member=Component CS2 
+Added Member To Class: ClassName=Main Member=Component DOWN 
+Added Member To Class: ClassName=Main Member=Component M1_DIR 
+Added Member To Class: ClassName=Main Member=Component M1_EN 
+Added Member To Class: ClassName=Main Member=Component M1_ID 
+Added Member To Class: ClassName=Main Member=Component M1_PWM 
+Added Member To Class: ClassName=Main Member=Component M1H1 
+Added Member To Class: ClassName=Main Member=Component M1H2 
+Added Member To Class: ClassName=Main Member=Component M1HP 
+Added Member To Class: ClassName=Main Member=Component M1 
+Added Member To Class: ClassName=Main Member=Component M2_DIR 
+Added Member To Class: ClassName=Main Member=Component M2_EN 
+Added Member To Class: ClassName=Main Member=Component M2_ID 
+Added Member To Class: ClassName=Main Member=Component M2_PWM 
+Added Member To Class: ClassName=Main Member=Component M2H1 
+Added Member To Class: ClassName=Main Member=Component M2H2 
+Added Member To Class: ClassName=Main Member=Component M2HP 
+Added Member To Class: ClassName=Main Member=Component M2 
+Added Member To Class: ClassName=Main Member=Component MCLR/VPP1 
+Added Member To Class: ClassName=Main Member=Component SCK2 
+Added Member To Class: ClassName=Main Member=Component SDI2 
+Added Member To Class: ClassName=Main Member=Component SDO2 
+Added Member To Class: ClassName=Main Member=Component UP 
+Added Member To Class: ClassName=Main Member=Component XT1 Crystal 2 Pin

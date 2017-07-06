@@ -264,55 +264,23 @@ Variation1=Designator=C1|UniqueId=\EDTPFFBE|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CP17E0276\BOM\Bill of Materials-Buck Converter_12v.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Buck Converter_12v.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CP17E0276\BOM\Bill of Materials-CP17E0276(Buck Converter_9v).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for CP17E0276\CP17E0276_REV0\BOM\Bill of Materials-CP17E0276(CP17E0276_9).xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CP17E0276\BOM\Bill of Materials-CP17E0276.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CP17E0276\REV0\BOM\Bill of Materials-CP17E0276.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Free Documents\CP17E0276_REV0\BOM\Bill of Materials-CP17E0276.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Free Documents\CP17E0276_REV0\BOM\Copy of Bill of Materials-CP17E0276(Buck Converter_9v).xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CP17E0276\BOM\Copy of Bill of Materials-CP17E0276(Buck Coverter_12v).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CP17E0276\CP17E0276_REV0\BOM\Copy of Bill of Materials-CP17E0276(CP17E0276_12).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CP17E0276\BOM\Copy of Bill of Materials-CP17E0276.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CP17E0276\REV0\BOM\Copy of Bill of Materials-CP17E0276.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CP17E0276\Design Rule Check - CP17E0276.html
 DItemRevisionGUID=
 
 [Configuration1]
