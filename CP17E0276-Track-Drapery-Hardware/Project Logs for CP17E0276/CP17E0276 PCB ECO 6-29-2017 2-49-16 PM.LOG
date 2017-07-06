@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=PWRIN Pin=C2-1
+Removed Pin From Net: NetName=PWRIN Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=FB2-1
+Removed Pin From Net: NetName=PWRIN Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=P5-7
+Removed Pin From Net: NetName=GND Pin=P5-8
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=PWRIN Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U9-7
+Removed Pin From Net: NetName=GND Pin=U9-9
+Added Component: Designator=FB3(0603 Inductor)
+Added Component: Designator=FB4(0603 Inductor)
+Added Pin To Net: NetName=PWRIN Pin=FB3-2
+Added Pin To Net: NetName=GND Pin=FB4-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-1
+Added Pin To Net: NetName=NetC2_1 Pin=FB3-1
+Added Pin To Net: NetName=NetC2_1 Pin=L1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=NetC3_2 Pin=C5-2
+Added Pin To Net: NetName=NetC3_2 Pin=C36-2
+Added Pin To Net: NetName=NetC3_2 Pin=C37-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C39-2
+Added Pin To Net: NetName=NetC3_2 Pin=C40-2
+Added Pin To Net: NetName=NetC3_2 Pin=D1-1
+Added Pin To Net: NetName=NetC3_2 Pin=D6-2
+Added Pin To Net: NetName=NetC3_2 Pin=FB2-1
+Added Pin To Net: NetName=NetC3_2 Pin=FB4-1
+Added Pin To Net: NetName=NetC3_2 Pin=P5-7
+Added Pin To Net: NetName=NetC3_2 Pin=P5-8
+Added Pin To Net: NetName=NetC3_2 Pin=R1-1
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=NetC3_2 Pin=R28-1
+Added Pin To Net: NetName=NetC3_2 Pin=R30-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-7
+Added Pin To Net: NetName=NetC3_2 Pin=U1-9
+Added Pin To Net: NetName=NetC3_2 Pin=U9-7
+Added Pin To Net: NetName=NetC3_2 Pin=U9-9
+Added Net: Name=NetC3_2
+Added Member To Class: ClassName=Buck Converter Member=Component FB3 Ferrite 4mOhm
+Added Member To Class: ClassName=Buck Converter Member=Component FB4 Ferrite 4mOhm

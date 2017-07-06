@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=D1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=D6-1
+Added Component: Designator=U9(SO8 - GROUND PAD)
+Added Pin To Net: NetName=NetC34_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D6-1
+Added Pin To Net: NetName=NetC34_2 Pin=U9-1
+Added Pin To Net: NetName=NetC4_1 Pin=U9-2
+Added Pin To Net: NetName=NetC4_1 Pin=U9-3
+Added Pin To Net: NetName=NetR28_2 Pin=U9-4
+Added Pin To Net: NetName=NetC35_2 Pin=U9-5
+Added Pin To Net: NetName=NetC39_1 Pin=U9-6
+Added Pin To Net: NetName=NetC3_2 Pin=U9-7
+Added Pin To Net: NetName=NetC34_1 Pin=U9-8
+Added Pin To Net: NetName=NetC3_2 Pin=U9-9
+Added Member To Class: ClassName=Buck Converter_12v Member=Component U9 LMR14050SDDAR

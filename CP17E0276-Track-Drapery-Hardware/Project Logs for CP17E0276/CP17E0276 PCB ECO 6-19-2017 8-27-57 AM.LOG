@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=D6-1
+Change Component Designator: OldDesignator=P1 NewDesignator=P1A
+Added Component: Designator=P1B(Track Edge Connector)
+Added Pin To Net: NetName=NetC1_2 Pin=D6-1
+Added Pin To Net: NetName=NetM1HP_0 Pin=P1B-1
+Added Pin To Net: NetName=NetM1H1_0 Pin=P1B-4
+Added Pin To Net: NetName=NetM1H2_0 Pin=P1B-5
+Added Pin To Net: NetName=NetP1_6 Pin=P1B-6
+Change Net Name : Old Net Name=NetP1_6 New Net Name=NetP1A_6
+Added Pin To Net: NetName=NetP1A_2 Pin=P1A-2
+Added Pin To Net: NetName=NetP1A_2 Pin=P1B-2
+Added Pin To Net: NetName=NetP1A_2 Pin=U4-11
+Added Net: Name=NetP1A_2
+Added Pin To Net: NetName=NetP1A_3 Pin=P1A-3
+Added Pin To Net: NetName=NetP1A_3 Pin=P1B-3
+Added Pin To Net: NetName=NetP1A_3 Pin=U4-2
+Added Net: Name=NetP1A_3
+Added Member To Class: ClassName=Main Member=Component P1B Header 6
+Added Member To Class: ClassName=Power Member=Component S1 BMI-S-101 EMI Shield

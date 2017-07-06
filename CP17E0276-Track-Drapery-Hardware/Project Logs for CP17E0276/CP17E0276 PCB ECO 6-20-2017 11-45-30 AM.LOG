@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=D6-1
+Change Component Footprint: Designator=L8 Old Footprint=XAL5030-332MEB New Footprint=SRN8040 - Power Inductor
+Change Component Description : Designator=R28 Old Description=20.5k Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film New Description=20.5k Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film 
+Change Component Description : Designator=S2 Old Description=BOARD SHIELD .476X.538" 1PIECE New Description=BOARD SHIELD .476X.538" 1PIECE 
+Change Component Description : Designator=R30 Old Description=RES SMD 10K OHM 1% 1/8W 0805 New Description=RES SMD 10K OHM 1% 1/8W 0805 
+Change Component Description : Designator=R29 Old Description=RES SMD 150K OHM 1% 1/16W 0402 New Description=RES SMD 150K OHM 1% 1/16W 0402 
+Added Pin To Net: NetName=NetC1_2 Pin=D6-1

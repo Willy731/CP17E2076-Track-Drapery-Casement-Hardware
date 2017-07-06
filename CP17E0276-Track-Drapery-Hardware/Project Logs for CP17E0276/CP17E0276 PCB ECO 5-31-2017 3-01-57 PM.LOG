@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Main Member=P2
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2A
+Added Component: Designator=P2B(Track Edge Connector)
+Added Pin To Net: NetName=NetM4_0 Pin=P2B-1
+Added Pin To Net: NetName=NetM5_0 Pin=P2B-4
+Added Pin To Net: NetName=NetM6_0 Pin=P2B-5
+Added Pin To Net: NetName=NetP3_6 Pin=P2B-6
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetP3_4
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetP3_5
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetP2_6 New Net Name=NetP1_6
+Change Net Name : Old Net Name=NetP3_6 New Net Name=NetP2A_6
+Added Pin To Net: NetName=NetP2A_2 Pin=P2A-2
+Added Pin To Net: NetName=NetP2A_2 Pin=P2B-2
+Added Pin To Net: NetName=NetP2A_2 Pin=U5-11
+Added Net: Name=NetP2A_2
+Added Pin To Net: NetName=NetP2A_3 Pin=P2A-3
+Added Pin To Net: NetName=NetP2A_3 Pin=P2B-3
+Added Pin To Net: NetName=NetP2A_3 Pin=U5-2
+Added Net: Name=NetP2A_3
+Added Member To Class: ClassName=Main Member=Component P2B Header 6
+Added Member To Class: ClassName=Main Member=Component P3 Header 6

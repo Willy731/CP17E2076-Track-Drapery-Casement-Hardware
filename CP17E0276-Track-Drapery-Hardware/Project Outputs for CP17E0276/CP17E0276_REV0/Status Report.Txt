@@ -1,0 +1,10 @@
+Output: Copy of Bill of Materials
+Type  : BOM
+From  : Variant [CP17E0276_12] of Project [CP17E0276.PrjPcb]
+   Generated File[Copy of Bill of Materials-CP17E0276(CP17E0276_12).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:55:44 AM On 7/6/2017

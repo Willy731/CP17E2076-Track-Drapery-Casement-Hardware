@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=D6-2
+Removed Member From Class: ClassName=Power Member=S1
+Added Component: Designator=S2(BMI-S-101 EMI Shield)
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Member To Class: ClassName=Power Member=Component S2 BMI-S-101 EMI Shield

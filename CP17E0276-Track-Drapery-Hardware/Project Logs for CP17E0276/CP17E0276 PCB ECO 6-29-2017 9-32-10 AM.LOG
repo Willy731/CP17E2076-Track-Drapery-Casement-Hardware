@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=D6-1
+Change Component Description : Designator=S3 Old Description= New Description=SMS-1020
+Added Pin To Net: NetName=NetC1_2 Pin=D6-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Main Member=Component U3 PIC18F66K40

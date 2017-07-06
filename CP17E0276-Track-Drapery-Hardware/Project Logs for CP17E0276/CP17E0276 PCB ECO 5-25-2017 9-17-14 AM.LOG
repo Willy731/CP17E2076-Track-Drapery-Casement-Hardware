@@ -1,0 +1,28 @@
+Added Component: Designator=U4(TD1233)
+Added Component: Designator=U5(TD1233)
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=NetR11_1 Pin=U4-1
+Added Pin To Net: NetName=NetP2_3 Pin=U4-2
+Added Pin To Net: NetName=PWRIN Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetM13_0 Pin=U4-5
+Added Pin To Net: NetName=NetM11_0 Pin=U4-6
+Added Pin To Net: NetName=NetM15_0 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=PWRIN Pin=U4-10
+Added Pin To Net: NetName=NetP2_2 Pin=U4-11
+Added Pin To Net: NetName=NetR11_1 Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U5-0
+Added Pin To Net: NetName=NetR15_1 Pin=U5-1
+Added Pin To Net: NetName=NetP3_3 Pin=U5-2
+Added Pin To Net: NetName=PWRIN Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetM14_0 Pin=U5-5
+Added Pin To Net: NetName=NetM12_0 Pin=U5-6
+Added Pin To Net: NetName=NetM16_0 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=PWRIN Pin=U5-10
+Added Pin To Net: NetName=NetP3_2 Pin=U5-11
+Added Pin To Net: NetName=NetR15_1 Pin=U5-12
+Added Member To Class: ClassName=Main Member=Component U4 MOTOR 1
+Added Member To Class: ClassName=Main Member=Component U5 MOTOR 2

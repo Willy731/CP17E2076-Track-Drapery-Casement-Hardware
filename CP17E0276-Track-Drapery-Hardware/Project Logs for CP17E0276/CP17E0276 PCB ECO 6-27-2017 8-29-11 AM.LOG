@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Member From Class: ClassName=Main Member=S3
+Change Component Footprint: Designator=S3 Old Footprint=BMI-S-101 EMI Shield New Footprint=EMI Shield
+Change Component Comment : Designator=S3 Old Comment=BMI-S-101 EMI Shield New Comment=
+Added Pin To Net: NetName=NetC1_2 Pin=D6-1
+Added Member To Class: ClassName=Main Member=Component S2 Side Actuated Switch

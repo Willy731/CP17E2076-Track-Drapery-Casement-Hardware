@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=BAT1 NewDesignator=BAT
+Change Component Designator: OldDesignator=DOWN1 NewDesignator=DOWN
+Change Component Designator: OldDesignator=GD1 NewDesignator=GD0
+Change Component Designator: OldDesignator=GDO1 NewDesignator=GD02
+Change Component Designator: OldDesignator=M3 NewDesignator=M1HP
+Change Component Designator: OldDesignator=M4 NewDesignator=M2HP
+Change Component Designator: OldDesignator=M5 NewDesignator=M2H1
+Change Component Designator: OldDesignator=M6 NewDesignator=M2H2
+Change Component Designator: OldDesignator=M7 NewDesignator=M1H1
+Change Component Designator: OldDesignator=M8 NewDesignator=M1H2
+Change Component Designator: OldDesignator=M9 NewDesignator=M1_ID
+Change Component Designator: OldDesignator=M10 NewDesignator=M2_ID
+Change Component Designator: OldDesignator=M11 NewDesignator=M1_DIR
+Change Component Designator: OldDesignator=M12 NewDesignator=M2_DIR
+Change Component Designator: OldDesignator=M13 NewDesignator=M1_PWM
+Change Component Designator: OldDesignator=M14 NewDesignator=M2_PWM
+Change Component Designator: OldDesignator=M15 NewDesignator=M1_EN
+Change Component Designator: OldDesignator=M16 NewDesignator=M2_EN
+Change Component Designator: OldDesignator=UP1 NewDesignator=UP
+Change Net Name : Old Net Name=NetBAT1_0 New Net Name=NetBAT_0
+Change Net Name : Old Net Name=NetDOWN1_0 New Net Name=NetDOWN_0
+Change Net Name : Old Net Name=NetGD1_0 New Net Name=NetGD0_0
+Change Net Name : Old Net Name=NetGDO1_0 New Net Name=NetGD02_0
+Change Net Name : Old Net Name=NetM3_0 New Net Name=NetM1HP_0
+Change Net Name : Old Net Name=NetM4_0 New Net Name=NetM2HP_0
+Change Net Name : Old Net Name=NetM5_0 New Net Name=NetM2H1_0
+Change Net Name : Old Net Name=NetM6_0 New Net Name=NetM2H2_0
+Change Net Name : Old Net Name=NetM7_0 New Net Name=NetM1H1_0
+Change Net Name : Old Net Name=NetM8_0 New Net Name=NetM1H2_0
+Change Net Name : Old Net Name=NetM9_0 New Net Name=NetM1_ID_0
+Change Net Name : Old Net Name=NetM10_0 New Net Name=NetM2_ID_0
+Change Net Name : Old Net Name=NetM11_0 New Net Name=NetM1_DIR_0
+Change Net Name : Old Net Name=NetM12_0 New Net Name=NetM2_DIR_0
+Change Net Name : Old Net Name=NetM13_0 New Net Name=NetM1_PWM_0
+Change Net Name : Old Net Name=NetM14_0 New Net Name=NetM2_PWM_0
+Change Net Name : Old Net Name=NetM15_0 New Net Name=NetM1_EN_0
+Change Net Name : Old Net Name=NetM16_0 New Net Name=NetM2_EN_0
+Added Member To Class: ClassName=Main Member=Component P3 Header 6
+Added Member To Class: ClassName=Main Member=Component U3 PIC18F66K40

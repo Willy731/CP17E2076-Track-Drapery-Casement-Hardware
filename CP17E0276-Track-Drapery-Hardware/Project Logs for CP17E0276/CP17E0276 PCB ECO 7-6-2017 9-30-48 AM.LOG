@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C34 Old Comment=Cap New Comment=0.1uF
+Change Component Comment : Designator=L8 Old Comment=Inductor New Comment=3.3uH
+Change Component Description : Designator=D3 Old Description=NP New Description=Diode Small Signal Switching 100V 0.25A 2-Pin SOD-323 T/R
+Change Component Description : Designator=Q1 Old Description=NP New Description=Trans GP BJT NPN 40V 0.6A 3-Pin SOT-23 T/R
+Change Component Description : Designator=S3 Old Description=SMS-1020 New Description=EMI SHIELD
+Change Net Name : Old Net Name=NetC35_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC1_2

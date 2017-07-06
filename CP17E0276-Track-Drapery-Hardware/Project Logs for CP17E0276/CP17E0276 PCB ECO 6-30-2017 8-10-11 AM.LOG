@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=FB1 Old Footprint=0603 Inductor New Footprint=2-SMD, J-LEAD
+Change Component Footprint: Designator=FB2 Old Footprint=0603 Inductor New Footprint=2-SMD, J-LEAD
+Change Component Comment : Designator=FB1 Old Comment=Ferrite 4mOhm New Comment=Ferrite 0.75mOhm
+Change Component Comment : Designator=FB2 Old Comment=Ferrite 4mOhm New Comment=Ferrite 0.75mOhm

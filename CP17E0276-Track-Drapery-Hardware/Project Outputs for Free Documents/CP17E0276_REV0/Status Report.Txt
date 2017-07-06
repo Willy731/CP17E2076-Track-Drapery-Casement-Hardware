@@ -1,0 +1,10 @@
+Output: Copy of Bill of Materials
+Type  : BOM
+From  : Variant [Buck Converter_9v] of PCB Document [CP17E0276.PcbDoc]
+   Generated File[Copy of Bill of Materials-CP17E0276(Buck Converter_9v).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:51:59 PM On 7/5/2017

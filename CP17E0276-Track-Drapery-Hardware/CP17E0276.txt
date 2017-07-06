@@ -1,0 +1,71 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CP17E0276.PrjPcb|ReportField=ProjectFullPath~H:\(1) Project\Workspaces\CP17E0276-Track-Drapery-Hardware\CP17E0276.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [CP17E0276.PcbDoc]|ReportField=TotalQuantity~108|ReportField=ReportTime~3:57:46 PM|ReportField=ReportDate~7/5/2017|ReportField=ReportDateTime~7/5/2017 3:57:46 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~CP17E0276.PcbDoc|ReportField=DataSourceFullPath~H:\(1) Project\Workspaces\CP17E0276-Track-Drapery-Hardware\CP17E0276.PcbDoc
+1|Antenna|6.8" Whip Antenna|Ant1|35 mil hole|Antenna|1
+2|Buzzer|NP|B1|CST-931AP|Buzzer|1
+3|Batt +|7055 Series, Two Inches in length|B+1|45 mil hole|Motor+Term|1
+4|Batt -|7055 Series, Two Inches in length|B-1|45 mil hole|Motor-Term|1
+5|0.1uF|CAP CER 0.1UF 50V 10% X7R 0603|C6, C10, C13, C15|0603 Small|CAP|4
+6|1.0uF|CAP CER 1UF 50V 10% X5R 0603|C7|0603 Small|CAP|1
+7|22pF|CAP CER 22PF 50V NP0 0201|C8, C9|0201|CAP|2
+8|0.1uF|MLCC - SMD/SMT 0603 0.1uF 50volts X7R 10%|C11, C12|0603 Capacitor|CAP|2
+9|100uF|CAP ALUM 100UF 35V 20% SMD|C14|ALEL_D8|CAPACITOR|1
+10|3.9pF|Capacitor, 3.9p, 0402, NP0, +-0.25pF, 50V|C16, C23|0402 Small|Cap|2
+11|220pF|Capacitor, 220p, 0402, NP0, 5%, 50V|C17, C18|0402 Small|Cap|2
+12|8.2pF|Capacitor, 8.2p, 0402, NP0, +-0.25pF, 50V|C19|0402 Small|Cap|1
+13|5.6pF|Capacitor, 5.6p, 0402, NP0, +-0.25pF, 50V|C20|0402 Small|Cap|1
+14|NP|NP|C21, C22, L5|0402 Small|Cap, Cap, Inductor|3
+15|100nF|Capacitor, 100n, 0402, X5R, 10%, 10V|C24|0402 Small|Cap|1
+16|22nF|Capacitor, 22n, 0402, X7R, 10%, 25V|C25, C26, C27, C28, C29, C30, C31|0402 Small|Cap|7
+17|12pF|CAP CER 12PF 50V 5% NP0 0402|C32|0402 Small|Cap|1
+18|15pF|CAP CER 15PF 50V 5% NP0 0402|C33|0402 Small|Cap|1
+19|Cap|CAP CER 0.1UF 50V 10% X7R 0603|C34|0805 capacitor|Cap|1
+20|560pF|CAP CER 560PF 25V X7R 0201|C35|0603 Capacitor|Cap|1
+21|270uF|CAP ALUM POLY 270UF 20% 16V SMD|C36, C37, C40|APXG160ARA271MH70G|Cap|3
+22|1uF|1µF ±10% 50V Ceramic Capacitor X7R 0805 (2012 Metric)|C38|1206 - duplicate|Cap|1
+23|8.2nF|8200pF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)|C39|0402 Small|Cap|1
+24|||CS1, GDO0, GDO2, SCK1, SDI1, SDO1|TestPoint1|TEST POINT|6
+25|STPS2L30A|DIODE SCHOTTKY 30V 2A SMA|D1|SMC|DIODE_SCHOTTKY|1
+26|BLUE|LED BLUE DIFFUSED 0603 SMD|D2|0603 LED|LED2|1
+27||NP|D3|SOD-323, SD-76|Diode|1
+28|SMAJ20|TVS 20V 400 Watts|D4|sma+|TVS Diode|1
+29|ESD|TVS DIODE 16VWM 39VC 2XDFN|D5|XDFN2|BiDi|1
+30|Ferrite 0.75mOhm|FERRITE BEAD 48 OHM 2SMD 1LN|FB1, FB2|2-SMD, J-LEAD|Ferrite Bead|2
+31|27nH|Inductor, 27n, 0402, ±5%|L2, L4, L7|0402 Small|Inductor|3
+32|22nH|Inductor, 22n, 0402, ±5%|L3|0402 Small|Inductor|1
+33|Inductor|Fixed Inductors 0.68uH|L6|0402 Small|Inductor|1
+34|Inductor||L8|SRN8040 - Power Inductor|Inductor|1
+35|M1|Header, 6-Pin|P1A|2X3 Header (For track drapery)|Header 6|1
+36|Header 6|Header, 6-Pin|P1B, P2B, P3|Track Edge Connector|Header 6|3
+37|M2a|Header, 6-Pin|P2A|2X3 Header (For track drapery)|Header 6|1
+38|SPI2|Header, 6-Pin|P4|HDR2X2|Header 6|1
+39|RJ45|Header, 4-Pin, Dual row|P5|RJ45 Modular Connector 8p8c|Header 4X2A|1
+40|NPN|NP|Q1|SOT23 - duplicate|NPN|1
+41|Dual BJT|BJT COMPOSITE TRANSISTOR GL WNG 2.9x2.8mm|Q2|SOT-363|Dual BJT|1
+42|430Ω|Thick Film Resistors - SMD 1/10watt 430ohms 1%|R4|0603 Small|Res1|1
+43|1MΩ|RES SMD 1M OHM 5% 1/10W 0603|R5, R6, R14, R16, R17, R22, R25|0603 Resistor|Res1|7
+44|100KΩ|RES SMD 100K OHM 5% 1/10W 0603|R7, R8|0603 Resistor|Res1|2
+45|180Ω|NP|R9|0402 Resistor|Res1|1
+46|12Ω|NP|R10|6-0805_M|Res1|1
+47|.1Ω|RES SMD 0.1 OHM 1% 1W 1206|R11, R15|1206 Small|Resistor|2
+48|10KΩ|Thick Film Resistors - SMD 0603 10Kohms 1% Tol|R12|0603 Small|Res1|1
+49|470Ω|Thick Film Resistors - SMD 0603 10Kohms 1% Tol|R13|0603 Small|Res1|1
+50|33KΩ|Thick Film Resistors - SMD 0603 10Kohms 1% Tol|R18, R26|0603 Small|Res1|2
+51|24V|Varistor (Voltage-Sensitive Resistor)|R19|0603 Small|Res Varistor|1
+52|9.1MΩ|RES SMD 9.1M OHM 5% 1/10W 0603|R20, R21|0603 Resistor|Res1|2
+53|10Ω|Thick Film Resistors - SMD 1/10watt 10ohms 1%|R23|0603 Small|Res1|1
+54|56KΩ|Resistor, 56k ohms, 0402,  ±1%|R24|0402 Small|Res1|1
+55|110Ω|RES SMD 110 OHM 5% 1/10W 0603|R27|0603 Resistor|Res1|1
+56|20.5KΩ|20.5k Ohm ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|R28|0603|Resistor|1
+57|150KΩ|RES SMD 150K OHM 1% 1/16W 0402|R29|0603 resistor|Resistor|1
+58|10KΩ|RES SMD 10K OHM 1% 1/8W 0805|R30|0805|Res1|1
+59|Side Actuated Switch||S1, S2|HDP001L|Side Actuated Switch|2
+60||SMS-1020|S3|SMS-1020|BMI-S-101 EMI Shield|1
+61|TS27L2|OP AMP - 2 CHANNEL|U2|SOIC-8|TS27L2|1
+62|PIC18F66K40||U3|64TQFP|PIC18F66K40|1
+63|MOTOR 1||U4|TD1233|MAX14870|1
+64|MOTOR 2||U5|TD1233|MAX14870|1
+65|3.3V|LDO Voltage Regulators 50mA 3.3V HI LDO|U6|SC70_5|LMV1703T|1
+66|RS485 Transceiver||U7|SOIC-8|ST3485ECDR Transceiver Half RS422,RS485|1
+67|CC110L|IC RF VALUE LINE TXRX 20QFN|U8|VQFN-20|CC1101|1
+68|LMR14050SDDAR|Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 5A 8-PowerSOIC (0.154", 3.90mm Width)|U9|SO8 - GROUND PAD|LMR14050SDDAR|1
+69|Crystal 2 Pin||XT1|HC-49S|Crystal 2 Pin|1
+70|26MHz|CRYSTAL 26MHZ 10PF SMD|XT2|CFPX-5||1

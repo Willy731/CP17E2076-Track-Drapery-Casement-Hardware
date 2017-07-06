@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=GD0 NewDesignator=GDO0
+Change Component Designator: OldDesignator=GD02 NewDesignator=GDO2
+Change Net Name : Old Net Name=NetGD0_0 New Net Name=NetGDO0_0
+Change Net Name : Old Net Name=NetGD02_0 New Net Name=NetGDO2_0
+Added Member To Class: ClassName=Main Member=Component U3 PIC18F66K40

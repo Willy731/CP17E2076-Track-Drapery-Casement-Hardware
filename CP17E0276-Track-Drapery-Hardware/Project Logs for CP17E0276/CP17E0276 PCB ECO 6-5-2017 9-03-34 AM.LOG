@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=XT1 Old DesignItemId= New DesignItemId=Crystal 2 Pin
+Change Component Comment : Designator=XT1 Old Comment=16MHz, 30ppm FS New Comment=Crystal 2 Pin
+Change Component Description : Designator=XT1 Old Description=16MHz ±30ppm Crystal 18pF 30 Ohm -20°C ~ 70°C Through Hole HC49/US New Description=
+Added Member To Class: ClassName=Main Member=Component P2A M2a

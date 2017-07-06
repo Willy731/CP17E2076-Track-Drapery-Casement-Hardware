@@ -1,0 +1,12 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint		Replacement
+Cboot	Kemet	C0805C104K5RACTU	1	0.01	Cap	100nF	ESR	0.064Ohm			805		
+Cin	MuRata	GRM31MR71H105KA88L	3	0.03	Cap	1uF	ESR	7.389mOhm			1206		CL21B105KBFNNNE
+Cout	Panasonic	20SVPF390M	2	0.66	Cap	390uF	ESR	0.014Ohm			CAPSMT_62_E12		
+Css	MuRata	GRM155R71C822KA01D	1	0.01	Cap	8.2nF	ESR	0Ohm			402		
+D1	Diodes Inc.	B540C-13-F	1	0.19	VFatIo	0.55V	Io	5A	VRRM	40V	SMC		
+L1	Coilcraft	XAL5030-332MEB	1	0.63	L	3.3uH	DCR	0.021Ohm	IDC	8.1A	XAL5030		
+Rfbb	Panasonic	ERJ-6ENF1002V	1	0.01	Resistance	10kOhm	Tolerance	1%	Power	0.125W	805		
+Rfbt	Vishay-Dale	CRCW0402150KFKED	1	0.01	Resistance	150kOhm	Tolerance	1%	Power	0.063W	402		
+Rt	Vishay-Dale	CRCW040220K5FKED	1	0.01	Resistance	20.5kOhm	Tolerance	1%	Power	0.063W	402		ERJ-3EKF2052V
+U1	Texas Instruments	LMR14050SDDAR	1	1.95							DDA0008E_N		
+Cff	MuRata	GRM033R71E561KA01D	1	0.01	Cap	560pF	ESR	0Ohm			201		
